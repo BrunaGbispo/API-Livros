@@ -1,0 +1,138 @@
+[
+    {
+        "id": "01",
+        "capa": "../imgs/cidade dos ossos.jpg",
+        "titulo": "O Pequeno principe",
+        "autor": "Rambo",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_26_01_Grace_pre_s50_sb75_m1.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"02",
+        "capa": "../imgs/divegente.jpg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_39_26_Adam_pre_s50_sb75_m1.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id": "03",
+        "capa": "../imgs/Harry.jpg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_07_59_Daniel_pre_s50_sb75_se0_b_m2.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"04",
+        "capa": "../imgs/insurgente.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_26_01_Grace_pre_s50_sb75_m1.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"05",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"06",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"07",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"07",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"08",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"09",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"10",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"11",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"12",
+        "capa": "eu.jpeg",
+        "titulo": "Alice no país das maravilhas",
+        "autor": "Rambo",
+        "audioBook": "alice.mp3",
+        "sinópse": "Alice no País das Maravilhas foi publicado em 1965 e é um clássico da literatura nonsense. Além da história da menina entediada que persegue um coelho branco, há várias passagens no livro que abordam física, filosofia e lógica. A continuação dessa história aparece em outra obra do autor, Alice através do espelho."
+    },
+    {
+        "id":"13",
+        "capa": "../imgs/holmes.jpg",
+        "titulo": "As aventuras de Sherlock Holmes''",
+        "autor": "Árthur Conan Doyle",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_07_59_Daniel_pre_s50_sb75_se0_b_m2.mp3",
+        "sinópse": "Sherlock Holmes é o detetive mais famoso da história do gênero policial, com milhões de fãs por todo o mundo. Nesse romance, de 1887, o leitor se depara com a primeira aparição pública de Holmes, aos 27 anos, e o momento que conhece o Dr. Watson, parceiro de tantas aventuras."
+    },
+    {
+        "id":"14",
+        "capa": "../imgs/garota exemplar.jpg",
+        "titulo": "Garota Exemplar",
+        "autor": "Gillian Flynn",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_26_01_Grace_pre_s50_sb75_m1.mp3",
+        "sinópse": "Na manhã de seu quinto aniversário de casamento, Amy, a linda e inteligente esposa de Nick Dunne, desaparece de sua casa às margens do Rio Mississippi. Aparentemente, trata-se de um crime violento, e passagens do diário de Amy revelam uma garota perfeccionista que seria capaz de levar qualquer um ao limite."
+    },
+    {
+        "id":"15",
+        "capa": "../imgs/o símbolo perdido.jpg",
+        "titulo": "O Simbolo Perdido",
+        "autor": "Dan Brown",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_32_01_Grace_pre_s50_sb75_m1.mp3",
+        "sinópse": "Robert Langdon, simbologista de Harvard, é convidado à última hora para dar uma palestra no Capitólio. Contudo, pouco depois da sua chegada, é descoberto no centro Rotunda um estranho objecto com cinco símbolos bizarros."
+    },
+    {
+        "id":"16",
+        "capa": "../imgs/verity.jpg",
+        "titulo": "Verity",
+        "autor": "Colleen Hoover",
+        "audioBook": "../sounds/ElevenLabs_2024-05-10T00_39_26_Adam_pre_s50_sb75_m1.mp3",
+        "sinópse": "Lowen encontra um manuscrito, uma autobiografia, extremamente perturbadora. Ao mesmo tempo que acha que Verity não está incapacitada e os seus sentimentos pelo seu marido aumentam, também a sua paranoia começa a dificultar a estadia na casa... pois como se pode viver debaixo do mesmo teto de uma psicopata?"
+    }
+]
